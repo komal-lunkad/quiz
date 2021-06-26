@@ -1,0 +1,8 @@
+create_question,1,national sports of india
+add_answer,1,hockey
+add_answer,1,cricket
+create_question,2,national flower of india
+add_answer,2,rose
+add_answer,2,lotus
+create_quiz,1,1 2 3
+list_quiz,1,1
